@@ -50,12 +50,13 @@ body{
 }
 
 .kinder{
-  color: rgb(216, 32, 32);
+  color: rgb(17, 17, 17);
+  transition: color 1s;
 }
 
 .bueno{
-  color: rgb(153, 59, 30);
-
+  color: rgb(17, 17, 17);
+  transition: color 1s;
 }
 
 .page2{
@@ -88,7 +89,7 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: 'Noto Sans', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.2em;
   text-align: center;
 }
 
